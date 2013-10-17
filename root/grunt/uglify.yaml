@@ -1,0 +1,3 @@
+scripts:
+  files:
+    'ui/_dist/build.js': 'ui/_dist/build.js'

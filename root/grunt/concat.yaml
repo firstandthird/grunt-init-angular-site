@@ -1,0 +1,6 @@
+scripts:
+  src:
+    - 'bower_components/jquery/jquery.min.js'
+    - 'ui/_dist/bower.js'
+    - 'ui/_dist/angular.js'
+  dest: 'ui/_dist/build.js'

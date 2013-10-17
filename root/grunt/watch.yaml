@@ -1,0 +1,22 @@
+options:
+  livereload: true
+grunt:
+  files:
+    - 'Gruntfile.js'
+  tasks: 
+    - 'default'
+scripts:
+  files:
+    - 'ui/modules/**/*.js'
+    - 'ui/scripts/**/*.js'
+  tasks: 
+    - 'scripts'
+styles:
+  files:
+    - 'ui/modules/**/*.less'
+    - 'ui/styles/*.less'
+  tasks: 
+    - 'styles'
+views:
+  files:
+    - 'index.html'

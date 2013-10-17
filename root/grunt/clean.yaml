@@ -1,0 +1,3 @@
+scripts:
+  - 'ui/_dist/angular.js'
+  - 'ui/_dist/bower.js'

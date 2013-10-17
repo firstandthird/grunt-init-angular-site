@@ -1,0 +1,8 @@
+scripts:
+  src:
+    - 'ui/scripts/app.js'
+    - 'ui/modules/**/*.js'
+    - 'ui/scripts/services/*.js'
+    - 'ui/scripts/factories/*.js'
+    - 'ui/scripts/directives/*.js'
+  dest: 'ui/_dist/angular.js'
